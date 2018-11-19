@@ -1,2 +1,9 @@
 .sfdx/sfdx-config.json
 .forceignore
+*.bak
+.sfdx/orgs/test-skkvqqjwfssy@example.com/maxrevision.json
+.sfdx/orgs/test-skkvqqjwfssy@example.com/sourcePathInfos.json
+.sfdx/orgs/test-skkvqqjwfssy@example.com/maxrevision.json
+.sfdx/orgs/test-skkvqqjwfssy@example.com/sourcePathInfos.json
+.sfdx/orgs/test-skkvqqjwfssy@example.com/maxrevision.json
+.sfdx/orgs/test-skkvqqjwfssy@example.com/sourcePathInfos.json
