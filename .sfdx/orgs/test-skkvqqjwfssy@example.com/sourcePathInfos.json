@@ -45,15 +45,15 @@
     [
         "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1542761531978,
             "changeTime": 1542761531978,
-            "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 573,
             "modifiedTime": 1542761759717,
             "changeTime": 1542761759717,
-            "contentHash": "d5444c58ed036243b36fdafc57135ac30073098d"
+            "contentHash": "d5444c58ed036243b36fdafc57135ac30073098d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 400,
             "modifiedTime": 1542761698753,
             "changeTime": 1542761698753,
-            "contentHash": "ffd7583ecb6c195c8374ad416c42a8ae4369498b"
+            "contentHash": "ffd7583ecb6c195c8374ad416c42a8ae4369498b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -736,14 +736,14 @@
     [
         "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
             "isDirectory": false,
-            "size": 210,
-            "modifiedTime": 1542760511894,
-            "changeTime": 1542760511894,
-            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 209,
+            "modifiedTime": 1542762375217,
+            "changeTime": 1542762375217,
+            "contentHash": "a26956096455c1ad8f2625a5a817d45b35678b07"
         }
     ],
     [
@@ -1204,14 +1204,14 @@
     [
         "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 332,
             "modifiedTime": 1542761743607,
             "changeTime": 1542761743607,
-            "contentHash": "d41667723c66edcdf945f3496e6e536fc88cc0b5"
+            "contentHash": "d41667723c66edcdf945f3496e6e536fc88cc0b5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1269,14 +1269,14 @@
     [
         "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 813,
             "modifiedTime": 1542761801449,
             "changeTime": 1542761801449,
-            "contentHash": "b6df490c19b420cd13f3a93db88be115ec1eed6b"
+            "contentHash": "b6df490c19b420cd13f3a93db88be115ec1eed6b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1308,40 +1308,40 @@
     [
         "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountsLoaded",
         {
-            "state": "u",
             "sourcePath": "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountsLoaded",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1542761531979,
             "changeTime": 1542761531979,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
         {
-            "state": "u",
             "sourcePath": "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 101,
             "modifiedTime": 1542761548700,
             "changeTime": 1542761548700,
-            "contentHash": "93f2ea04427212bae4e58e2b292f915f6cdd03ad"
+            "contentHash": "93f2ea04427212bae4e58e2b292f915f6cdd03ad",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/bishwambharsen/sfdx_projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1542761531979,
             "changeTime": 1542761531979,
-            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50"
+            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
